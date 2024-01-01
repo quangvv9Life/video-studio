@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development server files
+*.pid
+*.log
+
+# IDE / text editor files
+.vscode/
+.idea/
+
+# Environment configuration
+*env/
+.venv/
+
+# Dependencies
+lib/
+bin/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Compiled Python modules
+*.pyo
+*.pyd
+*.so
+
+# Jinja2 precompiled templates
+*.pyc
+
+# Runtime data
+*.db
+*.sqlite3
+*.sqlite
+*.sql
+
+# Other Flask / Python specific files
+instance/
+*.swp
+*.swo
+*.bak
+
+# Ignore any generated media files (such as images or videos)
+media/
+
+# ignore some specific files and folders
+*.zip
+food_recommender.zip
+migrations/
+*.backup
+
+# exclude vectorDB
+vectorDB/
+*.txt
+
+# exclude ipynb files
+*.ipynb
+
+*.conf
+*.rdb
