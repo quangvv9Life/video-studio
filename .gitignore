@@ -59,7 +59,7 @@ vectorDB/
 *.txt
 
 # exclude ipynb files
-*.ipynb
+# *.ipynb
 
 *.conf
 *.rdb
