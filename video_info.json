@@ -1,0 +1,690 @@
+[
+    {
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Dumbell Chest Fly s1.mp4",
+        "start_time_original": "00:00:26.09",
+        "start_timer": "00:00:26.09",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Dumbell Chest Fly 20.mp4",
+                "start_time_segment": ["00:00:26.09", "00:00:36.87"]
+            },
+            {
+                "output_video_path": "Dumbell Chest Fly 22.mp4",
+                "start_time_segment": ["00:00:26.09", "00:00:36.87"]
+            },
+            {
+                "output_video_path": "Dumbell Chest Fly 24.mp4",
+                "start_time_segment": ["00:00:26.09", "00:00:45.90"]
+            },
+            {
+                "output_video_path": "Dumbell Chest Fly 26.mp4",
+                "start_time_segment": ["00:00:26.09", "00:00:53.90"]
+            },
+            {
+                "output_video_path": "Dumbell Chest Fly 28.mp4",
+                "start_time_segment": ["00:00:26.09", "00:01:01.79"]
+            },
+            {
+                "output_video_path": "Dumbell Chest Fly 30.mp4",
+                "start_time_segment": ["00:00:26.09", "00:01:08.93"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\SUPERMAN ROW s1.mp4",
+        "start_time_original": "00:00:25.86",
+        "start_timer": "00:00:25.86",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "SUPERMAN ROW 10.mp4",
+                "start_time_segment": ["00:00:25.86", "00:00:44.27"]
+            },
+            {
+                "output_video_path": "SUPERMAN ROW 12.mp4",
+                "start_time_segment": ["00:00:25.86", "00:00:44.27"]
+            },
+            {
+                "output_video_path": "SUPERMAN ROW 14.mp4",
+                "start_time_segment": ["00:00:25.86", "00:00:51.47"]
+            },
+            {
+                "output_video_path": "SUPERMAN ROW 16.mp4",
+                "start_time_segment": ["00:00:25.86", "00:01:04.90"]
+            },
+            {
+                "output_video_path": "SUPERMAN ROW 18.mp4",
+                "start_time_segment": ["00:00:25.86", "00:01:18.15"]
+            },
+            {
+                "output_video_path": "SUPERMAN ROW 20.mp4",
+                "start_time_segment": ["00:00:25.86", "00:01:32.03"]
+            }
+        ]
+    },
+
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\LATERAL RAISE set 1.mp4",
+        "start_time_original": "00:00:16.70",
+        "start_timer": "00:00:16.70",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "LATERAL RAISE 20.mp4",
+                "start_time_segment": ["00:00:16.70", "00:00:24.17"]
+            },
+            {
+                "output_video_path": "LATERAL RAISE 22.mp4",
+                "start_time_segment": ["00:00:16.70", "00:00:24.17"]
+            },
+            {
+                "output_video_path": "LATERAL RAISE 24.mp4",
+                "start_time_segment": ["00:00:16.70", "00:00:31.58"]
+            },
+            {
+                "output_video_path": "LATERAL RAISE 26.mp4",
+                "start_time_segment": ["00:00:16.70", "00:00:39.15"]
+            },
+            {
+                "output_video_path": "LATERAL RAISE 28.mp4",
+                "start_time_segment": ["00:00:16.70", "00:00:45.92"]
+            },
+            {
+                "output_video_path": "LATERAL RAISE 30.mp4",
+                "start_time_segment": ["00:00:16.70", "00:00:52.88"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\TRICEPS EXTENSION SET 1.mp4",
+        "start_time_original": "00:00:27.61",
+        "start_timer": "00:00:27.61",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "TRICEPS EXTENSION 12.mp4",
+                "start_time_segment": ["00:00:27.61", "00:00:38.38"]
+            },
+            {
+                "output_video_path": "TRICEPS EXTENSION 14.mp4",
+                "start_time_segment": ["00:00:27.61", "00:00:38.38"]
+            },
+            {
+                "output_video_path": "TRICEPS EXTENSION 16.mp4",
+                "start_time_segment": ["00:00:27.61", "00:00:48.11"]
+            },
+            {
+                "output_video_path": "TRICEPS EXTENSION 18.mp4",
+                "start_time_segment": ["00:00:27.61", "00:00:58.95"]
+            },
+            {
+                "output_video_path": "TRICEPS EXTENSION 20.mp4",
+                "start_time_segment": ["00:00:27.61", "00:01:07.92"]
+            },
+            {
+                "output_video_path": "TRICEPS EXTENSION 22.mp4",
+                "start_time_segment": ["00:00:27.61", "00:01:15.22"]
+            },
+            {
+                "output_video_path": "TRICEPS EXTENSION 24.mp4",
+                "start_time_segment": ["00:00:27.61", "00:01:17.50"]
+            },
+            {
+                "output_video_path": "TRICEPS EXTENSION 26.mp4",
+                "start_time_segment": ["00:00:27.61", "00:01:26.75"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\BICEPS CURL set 1.mp4",
+        "start_time_original": "00:00:19.94",
+        "start_timer": "00:00:19.94",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "BICEPS CURL 15.mp4",
+                "start_time_segment": ["00:00:19.94", "00:00:30.76"]
+            },
+            {
+                "output_video_path": "BICEPS CURL 17.mp4",
+                "start_time_segment": ["00:00:19.94", "00:00:30.76"]
+            },
+            {
+                "output_video_path": "BICEPS CURL 20.mp4",
+                "start_time_segment": ["00:00:19.94", "00:00:44.78"]
+            },
+            {
+                "output_video_path": "BICEPS CURL 22.mp4",
+                "start_time_segment": ["00:00:19.94", "00:00:53.71"]
+            },
+            {
+                "output_video_path": "BICEPS CURL 25.mp4",
+                "start_time_segment": ["00:00:19.94", "00:01:06.73"]
+            },
+            {
+                "output_video_path": "BICEPS CURL 27.mp4",
+                "start_time_segment": ["00:00:19.94", "00:01:15.63"]
+            },
+            {
+                "output_video_path": "BICEPS CURL 30.mp4",
+                "start_time_segment": ["00:00:19.94", "00:01:28.59"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Declined Push Up s1.mp4",
+        "start_time_original": "00:00:28.06",
+        "start_timer": "00:00:28.06",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Declined Push Up 10.mp4",
+                "start_time_segment": ["00:00:28.06", "00:00:39.41"]
+            },
+            {
+                "output_video_path": "Declined Push Up 12.mp4",
+                "start_time_segment": ["00:00:28.06", "00:00:39.41"]
+            },
+            {
+                "output_video_path": "Declined Push Up 14.mp4",
+                "start_time_segment": ["00:00:28.06", "00:00:48.43"]
+            },
+            {
+                "output_video_path": "Declined Push Up 16.mp4",
+                "start_time_segment": ["00:00:28.06", "00:00:57.51"]
+            },
+            {
+                "output_video_path": "Declined Push Up 18.mp4",
+                "start_time_segment": ["00:00:28.06", "00:01:06.43"]
+            },
+            {
+                "output_video_path": "Declined Push Up 20.mp4",
+                "start_time_segment": ["00:00:28.06", "00:01:15.22"]
+            }
+        ]
+    },
+    
+    
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\TRICEPS DIPS s1.mp4",
+        "start_time_original": "00:00:08.54",
+        "start_timer": "00:00:08.54",
+        "background_clip_cut": "left",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "TRICEPS DIPS 15.mp4",
+                "start_time_segment": ["00:00:08.54", "00:00:15.16"]
+            },
+            {
+                "output_video_path": "TRICEPS DIPS 17.mp4",
+                "start_time_segment": ["00:00:08.54", "00:00:15.16"]
+            },
+            {
+                "output_video_path": "TRICEPS DIPS 20.mp4",
+                "start_time_segment": ["00:00:08.54", "00:00:26.53"]
+            },
+            {
+                "output_video_path": "TRICEPS DIPS 22.mp4",
+                "start_time_segment": ["00:00:08.54", "00:00:34.63"]
+            },
+            {
+                "output_video_path": "TRICEPS DIPS 25.mp4",
+                "start_time_segment": ["00:00:08.54", "00:00:46.28"]
+            },
+            {
+                "output_video_path": "TRICEPS DIPS 27.mp4",
+                "start_time_segment": ["00:00:08.54", "00:00:53.69"]
+            },
+            {
+                "output_video_path": "TRICEPS DIPS 30.mp4",
+                "start_time_segment": ["00:00:08.54", "00:01:04.22"]
+            }
+        ]
+    },
+    
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Romanian Deadlift s1.mp4",
+        "start_time_original": "00:00:18.70",
+        "start_timer": "00:00:18.70",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Romanian Deadlift 15.mp4",
+                "start_time_segment": ["00:00:18.70", "00:00:29.29"]
+            },
+            {
+                "output_video_path": "Romanian Deadlift 17.mp4",
+                "start_time_segment": ["00:00:18.70", "00:00:29.29"]
+            },
+            {
+                "output_video_path": "Romanian Deadlift 20.mp4",
+                "start_time_segment": ["00:00:18.70", "00:00:44.52"]
+            },
+            {
+                "output_video_path": "Romanian Deadlift 22.mp4",
+                "start_time_segment": ["00:00:18.70", "00:00:54.36"]
+            },
+            {
+                "output_video_path": "Romanian Deadlift 25.mp4",
+                "start_time_segment": ["00:00:18.70", "00:01:08.96"]
+            },
+            {
+                "output_video_path": "Romanian Deadlift 27.mp4",
+                "start_time_segment": ["00:00:18.70", "00:01:18.82"]
+            },
+            {
+                "output_video_path": "Romanian Deadlift 30.mp4",
+                "start_time_segment": ["00:00:18.70", "00:01:32.85"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\LAYING LEGS RAISE_combination.mp4",
+        "start_time_original": "00:00:12.50",
+        "start_timer": "00:00:12.50",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "LAYING LEGS RAISE 12.mp4",
+                "start_time_segment": ["00:00:12.50", "00:00:23.30"]
+            },
+            {
+                "output_video_path": "LAYING LEGS RAISE 15.mp4",
+                "start_time_segment": ["00:00:12.50", "00:00:23.30"]
+            },
+            {
+                "output_video_path": "LAYING LEGS RAISE 20.mp4",
+                "start_time_segment": ["00:00:12.50", "00:00:40.10"]
+            },
+            {
+                "output_video_path": "LAYING LEGS RAISE 25.mp4",
+                "start_time_segment": ["00:00:12.50", "00:00:54.64"]
+            },
+            {
+                "output_video_path": "LAYING LEGS RAISE 30.mp4",
+                "start_time_segment": ["00:00:12.50", "00:01:12.26"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Squat Jump s1.mp4",
+        "start_time_original": "00:00:06.50",
+        "start_timer": "00:00:06.50",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Squat Jump 12.mp4",
+                "start_time_segment": ["00:00:06.50", "00:00:09.17"]
+            },
+            {
+                "output_video_path": "Squat Jump 14.mp4",
+                "start_time_segment": ["00:00:06.50", "00:00:09.17"]
+            },
+            {
+                "output_video_path": "Squat Jump 16.mp4",
+                "start_time_segment": ["00:00:06.50", "00:00:11.97"]
+            },
+            {
+                "output_video_path": "Squat Jump 18.mp4",
+                "start_time_segment": ["00:00:06.50", "00:00:14.45"]
+            },
+            {
+                "output_video_path": "Squat Jump 20.mp4",
+                "start_time_segment": ["00:00:06.50", "00:00:17.23"]
+            },
+            {
+                "output_video_path": "Squat Jump 22.mp4",
+                "start_time_segment": ["00:00:06.50", "00:00:19.69"]
+            },
+            {
+                "output_video_path": "Squat Jump 24.mp4",
+                "start_time_segment": ["00:00:05.50", "00:00:22.61"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Dumbell Lunge s1.mp4",
+        "start_time_original": "00:00:18.34",
+        "start_timer": "00:00:18.34",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Dumbell Lunge 24.mp4",
+                "start_time_segment": ["00:00:18.34", "00:00:41.14"]
+            },
+            {
+                "output_video_path": "Dumbell Lunge 28.mp4",
+                "start_time_segment": ["00:00:18.34", "00:00:41.14"]
+            },
+            {
+                "output_video_path": "Dumbell Lunge 32.mp4",
+                "start_time_segment": ["00:00:18.34", "00:01:00.93"]
+            },
+            {
+                "output_video_path": "Dumbell Lunge 36.mp4",
+                "start_time_segment": ["00:00:18.34", "00:01:20.42"]
+            },
+            {
+                "output_video_path": "Dumbell Lunge 40.mp4",
+                "start_time_segment": ["00:00:18.34", "00:01:40.36"]
+            },
+            {
+                "output_video_path": "Dumbell Lunge 44.mp4",
+                "start_time_segment": ["00:00:18.34", "00:01:59.88"]
+            },
+            {
+                "output_video_path": "Dumbell Lunge 48.mp4",
+                "start_time_segment": ["00:00:18.34", "00:02:19.59"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Dumbell Calf Curl s1.mp4",
+        "start_time_original": "00:00:30.23",
+        "start_timer": "00:00:30.23",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Dumbell Calf Curl 15.mp4",
+                "start_time_segment": ["00:00:30.23", "00:00:44.21"]
+            },
+            {
+                "output_video_path": "Dumbell Calf Curl 17.mp4",
+                "start_time_segment": ["00:00:30.23", "00:00:44.21"]
+            },
+            {
+                "output_video_path": "Dumbell Calf Curl 20.mp4",
+                "start_time_segment": ["00:00:30.23", "00:01:00.76"]
+            },
+            {
+                "output_video_path": "Dumbell Calf Curl 22.mp4",
+                "start_time_segment": ["00:00:30.23", "00:01:12.19"]
+            },
+            {
+                "output_video_path": "Dumbell Calf Curl 25.mp4",
+                "start_time_segment": ["00:00:30.23", "00:01:28.64"]
+            },
+            {
+                "output_video_path": "Dumbell Calf Curl 27.mp4",
+                "start_time_segment": ["00:00:30.23", "00:01:39.28"]
+            },
+            {
+                "output_video_path": "Dumbell Calf Curl 30.mp4",
+                "start_time_segment": ["00:00:30.23", "00:01:53.87"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Dumbell Squat s1.mp4",
+        "start_time_original": "00:00:18.50",
+        "start_timer": "00:00:18.50",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Dumbell Squat 12.mp4",
+                "start_time_segment": ["00:00:18.50", "00:00:25.24"]
+            },
+            {
+                "output_video_path": "Dumbell Squat 14.mp4",
+                "start_time_segment": ["00:00:18.50", "00:00:25.24"]
+            },
+            {
+                "output_video_path": "Dumbell Squat 16.mp4",
+                "start_time_segment": ["00:00:18.50", "00:00:31.91"]
+            },
+            {
+                "output_video_path": "Dumbell Squat 18.mp4",
+                "start_time_segment": ["00:00:18.50", "00:00:38.57"]
+            },
+            {
+                "output_video_path": "Dumbell Squat 20.mp4",
+                "start_time_segment": ["00:00:18.50", "00:00:45.35"]
+            },
+            {
+                "output_video_path": "Dumbell Squat 22.mp4",
+                "start_time_segment": ["00:00:18.50", "00:00:52.06"]
+            },
+            {
+                "output_video_path": "Dumbell Squat 24.mp4",
+                "start_time_segment": ["00:00:18.50", "00:00:58.31"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Crunch s1.mp4",
+        "start_time_original": "00:00:21.69",
+        "start_timer": "00:00:21.69",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Crunch 15.mp4",
+                "start_time_segment": ["00:00:21.69", "00:00:49.01"]
+            },
+            {
+                "output_video_path": "Crunch 20.mp4",
+                "start_time_segment": ["00:00:21.69", "00:00:49.01"]
+            },
+            {
+                "output_video_path": "Crunch 25.mp4",
+                "start_time_segment": ["00:00:21.69", "00:01:13.93"]
+            },
+            {
+                "output_video_path": "Crunch 30.mp4",
+                "start_time_segment": ["00:00:21.69", "00:01:37.50"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\Calf Raise s1.mp4",
+        "start_time_original": "00:00:20.30",
+        "start_timer": "00:00:20.30",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "Calf Raise 30.mp4",
+                "start_time_segment": ["00:00:20.30", "00:00:28.78"]
+            },
+            {
+                "output_video_path": "Calf Raise 32.mp4",
+                "start_time_segment": ["00:00:20.30", "00:00:28.78"]
+            },
+            {
+                "output_video_path": "Calf Raise 34.mp4",
+                "start_time_segment": ["00:00:20.30", "00:00:34.82"]
+            },
+            {
+                "output_video_path": "Calf Raise 36.mp4",
+                "start_time_segment": ["00:00:20.30", "00:00:41.36"]
+            },
+            {
+                "output_video_path": "Calf Raise 38.mp4",
+                "start_time_segment": ["00:00:20.30", "00:00:47.09"]
+            },
+            {
+                "output_video_path": "Calf Raise 40.mp4",
+                "start_time_segment": ["00:00:20.30", "00:00:52.74"]
+            },
+            {
+                "output_video_path": "Calf Raise 42.mp4",
+                "start_time_segment": ["00:00:20.30", "00:00:58.48"]
+            },
+            {
+                "output_video_path": "Calf Raise 44.mp4",
+                "start_time_segment": ["00:00:20.30", "00:01:03.88"]
+            },
+            {
+                "output_video_path": "Calf Raise 46.mp4",
+                "start_time_segment": ["00:00:20.30", "00:01:09.50"]
+            },
+            {
+                "output_video_path": "Calf Raise 48.mp4",
+                "start_time_segment": ["00:00:20.30", "00:01:14.71"]
+            },
+            {
+                "output_video_path": "Calf Raise 50.mp4",
+                "start_time_segment": ["00:00:20.30", "00:01:20.47"]
+            }
+        ]
+    },
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\DUMBELL CHEST FLY s1.mp4",
+        "start_time_original": "00:00:26.96",
+        "start_timer": "00:00:26.96",
+        "background_clip_cut": "left",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "DUMBELL CHESTFLY 20.mp4",
+                "start_time_segment": ["00:00:26.96", "00:00:36.69"]
+            },
+            {
+                "output_video_path": "DUMBELL CHESTFLY 22.mp4",
+                "start_time_segment": ["00:00:26.96", "00:00:36.69"]
+            },
+            {
+                "output_video_path": "DUMBELL CHESTFLY 24.mp4",
+                "start_time_segment": ["00:00:26.96", "00:00:45.46"]
+            },
+            {
+                "output_video_path": "DUMBELL CHESTFLY 26.mp4",
+                "start_time_segment": ["00:00:26.96", "00:00:53.83"]
+            },
+            {
+                "output_video_path": "DUMBELL CHESTFLY 28.mp4",
+                "start_time_segment": ["00:00:26.96", "00:01:01.60"]
+            },
+            {
+                "output_video_path": "DUMBELL CHESTFLY 30.mp4",
+                "start_time_segment": ["00:00:26.96", "00:01:09.14"]
+            }
+        ]
+    },
+     
+    {
+        
+        "original_video_path": "D:\\0_Materials\\moviepy\\downloaded_videos\\set2\\ARNOLD DUMBELL PRESS set 2.mp4",
+        "start_time_original": "00:00:28.25",
+        "start_timer": "00:00:28.25",
+        "background_clip_cut": "right",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "ARNOLD DUMBELL PRESS_12.mp4",
+                "start_time_segment": ["00:00:28.25", "00:00:38.85"]
+            },
+            {
+                "output_video_path": "ARNOLD DUMBELL PRESS_14.mp4",
+                "start_time_segment": ["00:00:28.25", "00:00:38.85"]
+            },
+            {
+                "output_video_path": "ARNOLD DUMBELL PRESS_16.mp4",
+                "start_time_segment": ["00:00:28.25", "00:00:49.25"]
+            },
+            {
+                "output_video_path": "ARNOLD DUMBELL PRESS_18.mp4",
+                "start_time_segment": ["00:00:28.25", "00:00:59.07"]
+            },
+            {
+                "output_video_path": "ARNOLD DUMBELL PRESS_20.mp4",
+                "start_time_segment": ["00:00:28.25", "00:01:08.32"]
+            },
+            {
+                "output_video_path": "ARNOLD DUMBELL PRESS_22.mp4",
+                "start_time_segment": ["00:00:28.25", "00:01:17.53"]
+            }
+        ]
+    },
+    {"original_video_path": "WEIGHTED RUSSIAN TWISTS s1.mp4",
+        "start_time_original": "00:00:16.00",
+        "start_timer": "00:00:12.81",
+        "background_clip_cut": "left",
+        "background_cover": "00:00:04.40",
+        "timer_clip_path": "D:\\0_Materials\\0_timer\\5 MINUTE TIMER - COUNTDOWN TIMER (MINIMAL).mp4",
+        "time_segment": [
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_24.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:18.50"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_26.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:21.00"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_28.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:23.60"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_30.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:26.45"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_32.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:29.21"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_34.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:31.96"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_36.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:34.68"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_38.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:37.22"]
+            },
+            {
+                "output_video_path": "WEIGHTED RUSSIAN TWISTS_40.mp4",
+                "start_time_segment": ["00:00:16.01", "00:00:39.61"]
+            }
+        ]}
+
+]

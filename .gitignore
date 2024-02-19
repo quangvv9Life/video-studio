@@ -1,0 +1,6 @@
+.venv/
+*.mp4
+rep.ipynb
+test.ipynb
+*.csv
+*.gif
