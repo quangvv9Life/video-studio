@@ -62,7 +62,6 @@
                 "end_time": "00:00:22.03",
                 "out_put": "dumbell-squat",
                 "rotation": 90
-                
             }
         ]
     },
@@ -235,7 +234,6 @@
                 "out_put": "plank side right arm"
             }
         ]
-
     },
     {
         "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\split-squat-s1-out.mp4",
@@ -248,7 +246,6 @@
                 "out_put": "dumbell-lunge"
             }
         ]
-
     },
     {
         "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\superman-row-s1-out.mp4",
@@ -260,7 +257,6 @@
                 "out_put": "superman-row"
             }
         ]
-
     },
     {
         "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\superman-row-s1-v.mp4",
@@ -272,6 +268,18 @@
                 "out_put": "superman-row-a1"
             }
         ]
-
-    }
+    },
+    [
+        {
+            "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\arnold-dumbell-press-h.MP4",
+            "segments": [
+                {
+                    "start_time": "00:00:06.02",
+                    "end_time": "00:00:26.23",
+                    "out_put": "arnold-dumbell-press-h.MP4",
+                    "rotation": 90
+                }
+            ]
+        }
+    ]
 ]
