@@ -1,34 +1,342 @@
 [
     {
-        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\superman-row-s1-v.mp4",
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\arnold-dumbell-press-h.MP4",
         "segments": [
             {
                 "start_time": "00:00:00.00",
                 "end_time": "00:00:20.09",
                 "rotation": 90,
-                "out_put": "superman-row-s1-v"
+                "out_put": "arnold-dumbell-press-h"
             }
         ]
     },
     {
-        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\superman-row-s1-v.mp4",
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\barbell-romanian-deadlift-h.MP4",
         "segments": [
             {
                 "start_time": "00:00:00.00",
                 "end_time": "00:00:20.09",
                 "rotation": 90,
-                "out_put": "superman-row-s1-v"
+                "out_put": "barbell-romanian-deadlift-h"
             }
         ]
     },
     {
-        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\superman-row-s1-v.mp4",
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\barbell-row-h.MP4",
         "segments": [
             {
                 "start_time": "00:00:00.00",
                 "end_time": "00:00:20.09",
                 "rotation": 90,
-                "out_put": "superman-row-s1-v"
+                "out_put": "barbell-row-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\biceps-curl-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "biceps-curl-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\bulgarian-split-squat-l-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "bulgarian-split-squat-l-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\bulgarian-split-squat-r-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "bulgarian-split-squat-r-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\burpee-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "burpee-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\diamond-push-up-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "diamond-push-up-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\dumbell-calf-curl-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "dumbell-calf-curl-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\dumbell-chestfly-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "dumbell-chestfly-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\dumbell-pullover-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "dumbell-pullover-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\dumbell-squat-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "dumbell-squat-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\flutter-kick-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "flutter-kick-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\goblet-squat-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "goblet-squat-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\high-knees-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "high-knees-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\hip-raise-twist-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "hip-raise-twist-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\jump-squat-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "jump-squat-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\jumping-jack-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "jumping-jack-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\lateral-raise-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "lateral-raise-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\laying-legs-raise-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "laying-legs-raise-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\mountain-climbers-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "mountain-climbers-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\plank-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "plank-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\plank-on-knee-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "plank-on-knee-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\reverse-lunge-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "reverse-lunge-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\romanian-deadlift-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "romanian-deadlift-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\russian-twist-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "russian-twist-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\scissor-kick-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "scissor-kick-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\sumo-squat-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "sumo-squat-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\switch-lunge-f-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "switch-lunge-f-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\triceps-dips-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "triceps-dips-h"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\edited_videos\\24.01.26-renamed\\triceps-extension-h.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "triceps-extension-h"
             }
         ]
     }
