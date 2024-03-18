@@ -1,0 +1,277 @@
+[
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\bicycle-crunch-s1-out.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:06.02",
+                "end_time": "00:00:26.23",
+                "out_put": "bicycle-crunch",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\biceps-curl-s1-v.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.18",
+                "out_put": "biceps-curl",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\calf-raise-s2-v.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "out_put": "calf-raise",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\crunch-s1-v.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.07",
+                "out_put": "crunch",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\declined-pushups-s1-v.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:02.18",
+                "end_time": "00:00:24.24",
+                "out_put": "declined-push-up",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\dumbbell-squat-s1-out.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:22.03",
+                "out_put": "dumbell-squat",
+                "rotation": 90
+                
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\hiphop-jump-s1-out.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:37.17",
+                "out_put": "small-jump-squat",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\jump-squat-s1.MP4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:17.16",
+                "out_put": "jump-squat",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1019108.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:09.09",
+                "split_time": "00:00:30.29",
+                "split_end_time": "00:00:51.03",
+                "rotation": 90,
+                "out_put": "chin-up"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1024620.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:12.24",
+                "split_time": "00:00:35.24",
+                "split_end_time": "00:00:56.05",
+                "rotation": 90,
+                "out_put": "chin-up-a1"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\chin-up-916-a1.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:13.06",
+                "end_time": "00:01:04.15",
+                "out_put": "chin-up-a2",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1019111.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:20.24",
+                "end_time": "00:00:45.17",
+                "rotation": 90,
+                "out_put": "step-up-right"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1024624.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:23.05",
+                "end_time": "00:00:39.26",
+                "rotation": 90,
+                "out_put": "step-up-right-a1"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1019112.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:03.16",
+                "end_time": "00:00:16.16",
+                "rotation": 90,
+                "out_put": "step-up-left"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1019107.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:16.29",
+                "end_time": "00:00:50.09",
+                "rotation": 90,
+                "out_put": "basic-pull-up"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1024619.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:15.10",
+                "end_time": "00:00:50.14",
+                "rotation": 90,
+                "out_put": "basic-pull-up-a1"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\pull-up-beginer-916.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:17.01",
+                "end_time": "00:00:35.11",
+                "rotation": 90,
+                "out_put": "basic-pull-up-a2"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1019106.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:15.10",
+                "end_time": "00:01:06.02",
+                "split_time": "00:00:32.20",
+                "split_end_time": "00:00:52.24",
+                "out_put": "pull-up",
+                "rotation": 90
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\L1024618.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:13.00",
+                "end_time": "00:01:05.19",
+                "split_time": "00:00:46.02",
+                "split_end_time": "00:00:56.11",
+                "rotation": 90,
+                "out_put": "pull-up-a1"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\pull-up-916-a2.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:12.21",
+                "rotation": 90,
+                "out_put": "pull-up-a2"
+            }
+        ]
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\plank-sides-s2-v.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:15.29",
+                "rotation": 90,
+                "out_put": "plank side right arm"
+            }
+        ]
+
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\split-squat-s1-out.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "split_time": "00:00:20.16",
+                "split_end_time": "00:00:36.16",
+                "rotation": 90,
+                "out_put": "dumbell-lunge"
+            }
+        ]
+
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\superman-row-s1-out.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:21.18",
+                "rotation": 90,
+                "out_put": "superman-row"
+            }
+        ]
+
+    },
+    {
+        "original_video_path": "G:\\1_Videos\\0_Materials\\0.Strength\\app\\superman-row-s1-v.mp4",
+        "segments": [
+            {
+                "start_time": "00:00:00.00",
+                "end_time": "00:00:20.09",
+                "rotation": 90,
+                "out_put": "superman-row-a1"
+            }
+        ]
+
+    }
+]
